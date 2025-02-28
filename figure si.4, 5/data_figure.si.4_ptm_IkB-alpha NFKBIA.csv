@@ -1,0 +1,61 @@
+,Unnamed: 0,sample,media,dilution,sensor,value,legend,ptm_target,phos_total,clamp,cell_sample
+2642,2642,BioRad_TNFa,M1,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],11.7449654107058,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HeLa + (TNF$\alpha$
+stimulation)"
+2643,2643,BioRad_TNFa,M2,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],11.030419567635,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HeLa + (TNF$\alpha$
+stimulation)"
+2644,2644,CST,M1,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],6.59522510500078,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"Jurkat (phosphatase
+inhibitor)"
+2645,2645,CST,M2,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],7.06946608795713,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"Jurkat (phosphatase
+inhibitor)"
+2646,2646,IKBa,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],4.37044830627533,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IkB-$\alpha$
+over expression)"
+2647,2647,IKBa,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],3.54635814067312,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IkB-$\alpha$
+over expression)"
+2652,2652,IKKb,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],-0.353338538336255,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\beta$
+over expression)"
+2653,2653,IKKb,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],-0.546986232773342,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\beta$
+over expression)"
+2654,2654,IKKg,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],1.66656054394901,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\gamma$
+over expression)"
+2655,2655,IKKg,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],0.92210968765147,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\gamma$
+over expression)"
+2660,2660,RELA,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],3.27512585332635,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (RELA
+over expression)"
+2661,2661,RELA,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],2.75132273764739,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (RELA
+over expression)"
+2662,2662,RELB,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],-0.639083468702744,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (RELB
+overexpression)"
+2663,2663,RELB,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],-0.141420440845695,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (RELB
+overexpression)"
+2666,2666,TAK1,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],0.155915354951364,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,HEK293
+2667,2667,TAK1,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],-0.0015125107267111,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,HEK293
+2762,2762,BioRad_TNFa,M1,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],23.3040303630949,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HeLa + (TNF$\alpha$
+stimulation)"
+2763,2763,BioRad_TNFa,M2,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],26.7294898315036,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HeLa + (TNF$\alpha$
+stimulation)"
+2764,2764,CST,M1,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],15.4844469064677,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"Jurkat (phosphatase
+inhibitor)"
+2765,2765,CST,M2,2,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],14.1899638016728,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"Jurkat (phosphatase
+inhibitor)"
+2766,2766,IKBa,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.214249114480954,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (IkB-$\alpha$
+over expression)"
+2767,2767,IKBa,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],-0.489958002306163,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (IkB-$\alpha$
+over expression)"
+2772,2772,IKKb,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],-0.0029730449226304,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (IKK-$\beta$
+over expression)"
+2773,2773,IKKb,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.236317280282578,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (IKK-$\beta$
+over expression)"
+2774,2774,IKKg,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.0446996142316447,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (IKK-$\gamma$
+over expression)"
+2775,2775,IKKg,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],-0.272523779104685,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (IKK-$\gamma$
+over expression)"
+2780,2780,RELA,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.873323177856938,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (RELA
+over expression)"
+2781,2781,RELA,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],-1.01068460568932,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (RELA
+over expression)"
+2782,2782,RELB,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.812667012559763,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (RELB
+overexpression)"
+2783,2783,RELB,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.0171009787016014,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,"HEK293 (RELB
+overexpression)"
+2786,2786,TAK1,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],0.602206498336231,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,HEK293
+2787,2787,TAK1,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.P.4.1],1.04978554374338,IkB-alpha/ NFKBIA (phospho),IkB-alpha/ NFKBIA,phospho,CL-9.P.4.1,HEK293

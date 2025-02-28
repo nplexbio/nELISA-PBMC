@@ -1,0 +1,70 @@
+Key,Value
+IL-15,IFN gamma inducers
+IL-7,IFN gamma inducers
+IL-18,IFN gamma inducers
+IL-2,IFN gamma inducers
+CXCL12 (beta),IFN gamma inducers
+IL-21,IFN gamma inducers
+IL-23,IFN gamma inducers
+IL-27,IFN gamma inducers
+CCL5,CCL24 inhibitors
+Flt-3 Ligand,CCL24 inhibitors
+CXCL10,CCL24 inhibitors
+VEGF-A (165),CCL24 inhibitors
+BAFF,CCL24 inhibitors
+CCL1,CCL24 inhibitors
+CCL11,CCL24 inhibitors
+CCL26,CCL24 inhibitors
+IL-24,CCL24 inhibitors
+G-CSF,CCL24 inhibitors
+TNF RI,CCL24 inhibitors
+GM-CSF,"TNF alpha, IL-1 alpha/beta inducers"
+CX3CL1,"TNF alpha, IL-1 alpha/beta inducers"
+M-CSF,"TNF alpha, IL-1 alpha/beta inducers"
+IL-17B,"TNF alpha, IL-1 alpha/beta inducers"
+IL-3,"TNF alpha, IL-1 alpha/beta inducers"
+IL-1 alpha,IL-1 beta inducers
+LIF,IL-1 beta inducers
+CXCL12 (alpha),IL-1 beta inducers
+IL-33,IL-1 beta inducers
+MMP-1,IL-1 beta inducers
+PDGF-BB,IL-1 beta inducers
+MMP-9,IL-1 beta inducers
+IL-17F,IL-1 beta inducers
+IL-17D,IL-1 beta inducers
+IL-17C,IL-1 beta inducers
+CD40L,IL-1 beta inducers
+BCMA (TNFRSF17),IL-1 beta inducers
+CCL21,IL-1 beta inducers
+TRAIL,IL-1 beta inducers
+IL-1 beta,IL-1 beta inducers
+IGF-1,IL-1 beta inducers
+CCL24,Th1/Th2
+WISP-1 (CCN4),Th1/Th2
+TNF alpha,Th1/Th2
+IFN gamma,Th1/Th2
+IL-12 p70,Th1/Th2
+IFN alpha 2 (alpha 2b),Th1/Th2
+IFN beta,Th1/Th2
+IL-10,Th1/Th2
+IL-1 RA RN,Th1/Th2
+IL-4,Th1/Th2
+TGF-beta 2,Th1/Th2
+TGF-beta 1 (total),Th1/Th2
+TGF-beta 3,Th1/Th2
+Activin A,Th1/Th2
+IL-6,Th1/Th2
+IL-17E (IL-25),IL-1 beta inhibitors
+CCL28,IL-1 beta inhibitors
+GDF-15 (MIC-1),IL-1 beta inhibitors
+MMP-10,IL-1 beta inhibitors
+MMP-2,IL-1 beta inhibitors
+TREM2,"TNF alpha, IL-1 beta inhibitors"
+C5 C5a,"TNF alpha, IL-1 beta inhibitors"
+EMMPRIN,"TNF alpha, IL-1 beta inhibitors"
+GDNF,"TNF alpha, IL-1 beta inhibitors"
+FAS-L,"TNF alpha, IL-1 beta inhibitors"
+PTX3 (Pentraxin 3),"TNF alpha, IL-1 beta inhibitors"
+uPA,"TNF alpha, IL-1 beta inhibitors"
+MMP-3,"TNF alpha, IL-1 beta inhibitors"
+MMP-7,"TNF alpha, IL-1 beta inhibitors"

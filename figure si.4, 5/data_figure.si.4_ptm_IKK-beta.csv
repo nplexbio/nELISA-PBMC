@@ -1,0 +1,61 @@
+,Unnamed: 0,sample,media,dilution,sensor,value,legend,ptm_target,phos_total,clamp,cell_sample
+682,682,BioRad_TNFa,M1,2,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],17.0604236945411,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HeLa + (TNF$\alpha$
+stimulation)"
+683,683,BioRad_TNFa,M2,2,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],20.2967691043388,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HeLa + (TNF$\alpha$
+stimulation)"
+684,684,CST,M1,2,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],7.9405370474836,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"Jurkat (phosphatase
+inhibitor)"
+685,685,CST,M2,2,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],19.1804363505864,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"Jurkat (phosphatase
+inhibitor)"
+686,686,IKBa,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.784626312127098,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IkB-$\alpha$
+over expression)"
+687,687,IKBa,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],-0.855713914765664,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IkB-$\alpha$
+over expression)"
+692,692,IKKb,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],57.2509838860244,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\beta$
+over expression)"
+693,693,IKKb,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],58.3786126933005,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\beta$
+over expression)"
+694,694,IKKg,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],-1.32710721460699,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\gamma$
+over expression)"
+695,695,IKKg,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],-0.990991698968674,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\gamma$
+over expression)"
+700,700,RELA,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],1.36837297089031,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (RELA
+over expression)"
+701,701,RELA,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],-0.245535890842979,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (RELA
+over expression)"
+702,702,RELB,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],2.60341138759678,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (RELB
+overexpression)"
+703,703,RELB,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.8877470833344,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (RELB
+overexpression)"
+706,706,TAK1,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.311459307302572,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,HEK293
+707,707,TAK1,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],-0.200282114875026,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,HEK293
+762,762,BioRad_TNFa,M1,2,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],2.41016318622888,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HeLa + (TNF$\alpha$
+stimulation)"
+763,763,BioRad_TNFa,M2,2,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],5.80776976637362,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HeLa + (TNF$\alpha$
+stimulation)"
+764,764,CST,M1,2,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],18.0219979885468,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"Jurkat (phosphatase
+inhibitor)"
+765,765,CST,M2,2,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],5.97671727476869,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"Jurkat (phosphatase
+inhibitor)"
+766,766,IKBa,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],-0.409335345656334,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (IkB-$\alpha$
+over expression)"
+767,767,IKBa,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],-0.841836210259164,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (IkB-$\alpha$
+over expression)"
+772,772,IKKb,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],1.09851252448332,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (IKK-$\beta$
+over expression)"
+773,773,IKKb,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],2.64948141704417,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (IKK-$\beta$
+over expression)"
+774,774,IKKg,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],0.171492048043753,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (IKK-$\gamma$
+over expression)"
+775,775,IKKg,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],-0.532131839721244,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (IKK-$\gamma$
+over expression)"
+780,780,RELA,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],0.588086265377352,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (RELA
+over expression)"
+781,781,RELA,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],-0.351929564285386,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (RELA
+over expression)"
+782,782,RELB,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],0.942666137462212,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (RELB
+overexpression)"
+783,783,RELB,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],-1.01520781071272,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,"HEK293 (RELB
+overexpression)"
+786,786,TAK1,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],0.567566608991715,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,HEK293
+787,787,TAK1,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.P.2.1],-0.214433869986568,IKK-beta (phospho),IKK-beta,phospho,CL-3.P.2.1,HEK293

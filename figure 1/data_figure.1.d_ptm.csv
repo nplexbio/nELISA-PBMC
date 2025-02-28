@@ -1,0 +1,61 @@
+,Unnamed: 0,sample,media,dilution,sensor,value,legend,ptm_target,phos_total,clamp,cell_sample
+1842,1842,BioRad_TNFa,M1,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],109.685920463478,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HeLa + (TNF$\alpha$
+stimulation)"
+1843,1843,BioRad_TNFa,M2,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],81.2647378315001,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HeLa + (TNF$\alpha$
+stimulation)"
+1844,1844,CST,M1,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],96.5844798554702,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"Jurkat (phosphatase
+inhibitor)"
+1845,1845,CST,M2,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],75.2436121775843,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"Jurkat (phosphatase
+inhibitor)"
+1846,1846,IKBa,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],17.969087386029,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IkB-$\alpha$
+over expression)"
+1847,1847,IKBa,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],15.4781401976373,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IkB-$\alpha$
+over expression)"
+1852,1852,IKKb,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],23.8580889031097,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\beta$
+over expression)"
+1853,1853,IKKb,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],18.3655195683224,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\beta$
+over expression)"
+1854,1854,IKKg,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],43.8195501202585,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\gamma$
+over expression)"
+1855,1855,IKKg,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],27.4006668639592,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\gamma$
+over expression)"
+1860,1860,RELA,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],172.470998179786,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (RELA
+over expression)"
+1861,1861,RELA,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],160.400891008937,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (RELA
+over expression)"
+1862,1862,RELB,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],40.4319916050365,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (RELB
+overexpression)"
+1863,1863,RELB,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],34.0611224192339,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (RELB
+overexpression)"
+1866,1866,TAK1,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],23.2322839661956,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,HEK293
+1867,1867,TAK1,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],17.5267650232518,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,HEK293
+1962,1962,BioRad_TNFa,M1,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],33.6447585876144,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HeLa + (TNF$\alpha$
+stimulation)"
+1963,1963,BioRad_TNFa,M2,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],25.4667966895857,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HeLa + (TNF$\alpha$
+stimulation)"
+1964,1964,CST,M1,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],73.5257633549656,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"Jurkat (phosphatase
+inhibitor)"
+1965,1965,CST,M2,2,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],61.5656878390009,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"Jurkat (phosphatase
+inhibitor)"
+1966,1966,IKBa,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],0.0523596043092375,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (IkB-$\alpha$
+over expression)"
+1967,1967,IKBa,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],2.10714997234352,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (IkB-$\alpha$
+over expression)"
+1972,1972,IKKb,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],3.80318558766086,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (IKK-$\beta$
+over expression)"
+1973,1973,IKKb,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],6.34961521016723,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (IKK-$\beta$
+over expression)"
+1974,1974,IKKg,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],2.08102897676644,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (IKK-$\gamma$
+over expression)"
+1975,1975,IKKg,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],2.4085496293091,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (IKK-$\gamma$
+over expression)"
+1980,1980,RELA,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],5.38096057349646,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (RELA
+over expression)"
+1981,1981,RELA,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],11.4239237472536,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (RELA
+over expression)"
+1982,1982,RELB,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],3.88197739629588,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (RELB
+overexpression)"
+1983,1983,RELB,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],7.31590849500127,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,"HEK293 (RELB
+overexpression)"
+1986,1986,TAK1,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],-0.412202281544065,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,HEK293
+1987,1987,TAK1,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.P.8.1],1.07403144491722,NFKB3-p65 (RELA) (phospho),NFKB3-p65 (RELA),phospho,CL-7.P.8.1,HEK293

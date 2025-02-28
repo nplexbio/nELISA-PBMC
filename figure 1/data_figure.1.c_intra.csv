@@ -1,0 +1,73 @@
+,Unnamed: 0,sample,media,dilution,sensor,value,legend,ptm_target,phos_total,clamp,cell_sample
+686,686,IKBa,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],1.784626312127098,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IkB-$\alpha$
+over expression)"
+687,687,IKBa,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.14428608523433595,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IkB-$\alpha$
+over expression)"
+692,692,IKKb,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],58.2509838860244,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\beta$
+over expression)"
+693,693,IKKb,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],59.3786126933005,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\beta$
+over expression)"
+694,694,IKKg,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],-0.32710721460699,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\gamma$
+over expression)"
+695,695,IKKg,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.009008301031325994,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (IKK-$\gamma$
+over expression)"
+700,700,RELA,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],2.3683729708903103,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (RELA
+over expression)"
+701,701,RELA,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.754464109157021,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,"HEK293 (RELA
+over expression)"
+706,706,TAK1,M1,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],1.311459307302572,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,HEK293
+707,707,TAK1,M2,4,PTM-3.1 - IKK-beta - nEL [CL-3.T.3.2],0.799717885124974,IKK-beta (total),IKK-beta,total,CL-3.T.3.2,HEK293
+1846,1846,IKBa,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],18.969087386029,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IkB-$\alpha$
+over expression)"
+1847,1847,IKBa,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],16.478140197637302,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IkB-$\alpha$
+over expression)"
+1852,1852,IKKb,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],24.8580889031097,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\beta$
+over expression)"
+1853,1853,IKKb,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],19.3655195683224,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\beta$
+over expression)"
+1854,1854,IKKg,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],44.8195501202585,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\gamma$
+over expression)"
+1855,1855,IKKg,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],28.4006668639592,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (IKK-$\gamma$
+over expression)"
+1860,1860,RELA,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],173.470998179786,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (RELA
+over expression)"
+1861,1861,RELA,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],161.400891008937,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,"HEK293 (RELA
+over expression)"
+1866,1866,TAK1,M1,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],24.2322839661956,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,HEK293
+1867,1867,TAK1,M2,4,PTM-7.1 - NFKB3-p65 (RELA) - nEL [CL-7.T.15.2],18.5267650232518,NFKB3-p65 (RELA) (total),NFKB3-p65 (RELA),total,CL-7.T.15.2,HEK293
+2646,2646,IKBa,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],5.37044830627533,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IkB-$\alpha$
+over expression)"
+2647,2647,IKBa,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],4.54635814067312,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IkB-$\alpha$
+over expression)"
+2652,2652,IKKb,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],0.6466614616637449,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\beta$
+over expression)"
+2653,2653,IKKb,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],0.453013767226658,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\beta$
+over expression)"
+2654,2654,IKKg,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],2.66656054394901,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\gamma$
+over expression)"
+2655,2655,IKKg,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],1.9221096876514698,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (IKK-$\gamma$
+over expression)"
+2660,2660,RELA,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],4.27512585332635,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (RELA
+over expression)"
+2661,2661,RELA,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],3.75132273764739,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,"HEK293 (RELA
+over expression)"
+2666,2666,TAK1,M1,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],1.155915354951364,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,HEK293
+2667,2667,TAK1,M2,4,PTM-9.1 - IkB-alpha/ NFKBIA - nEL [CL-9.T.4.2],0.9984874892732889,IkB-alpha/ NFKBIA (total),IkB-alpha/ NFKBIA,total,CL-9.T.4.2,HEK293
+3246,3246,IKBa,M1,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],1.1858175557725,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (IkB-$\alpha$
+over expression)"
+3247,3247,IKBa,M2,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],2.27942816098887,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (IkB-$\alpha$
+over expression)"
+3252,3252,IKKb,M1,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],2.07616472275029,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (IKK-$\beta$
+over expression)"
+3253,3253,IKKb,M2,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],2.57641653705649,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (IKK-$\beta$
+over expression)"
+3254,3254,IKKg,M1,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],16.8563704009931,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (IKK-$\gamma$
+over expression)"
+3255,3255,IKKg,M2,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],13.8108688570892,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (IKK-$\gamma$
+over expression)"
+3260,3260,RELA,M1,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],9.92269814191964,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (RELA
+over expression)"
+3261,3261,RELA,M2,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],10.78350569663747,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,"HEK293 (RELA
+over expression)"
+3266,3266,TAK1,M1,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],1.867926012282569,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,HEK293
+3267,3267,TAK1,M2,4,PTM-11.1 - IKK-gamma/NEMO - nEL [CL-11.T.4.2],2.4974525955985003,IKK-gamma/NEMO (total),IKK-gamma/NEMO,total,CL-11.T.4.2,HEK293

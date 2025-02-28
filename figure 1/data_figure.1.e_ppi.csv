@@ -1,0 +1,385 @@
+,plate_name,plate_barcode,position,sample,pool,concentration,concentration_unit,sample_ag,variable,value
+0,Change FBS,Change FBS,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p40,79.4055970174383
+1,Change FBS,Change FBS,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p40,9.41890327746886
+2,Change FBS,Change FBS,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p40,141.16931442763
+3,Change FBS,Change FBS,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p40,39.6431934328401
+4,Change FBS,Change FBS,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p40,72.8658017731747
+5,Change FBS,Change FBS,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p40,6.97345250716846
+6,Change FBS,Change FBS,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p40,141.668410851456
+7,Change FBS,Change FBS,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p40,18.018912202443
+8,Change FBS,Change FBS,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p40,61.6814129142143
+9,Change FBS,Change FBS,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p40,2.03794097424252
+10,Change FBS,Change FBS,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p40,137.595651972007
+11,Change FBS,Change FBS,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p40,7.87329707670873
+12,Change FBS,Change FBS,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p40,50.1263392314051
+13,Change FBS,Change FBS,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p40,2.08440309540464
+14,Change FBS,Change FBS,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p40,131.840052135328
+15,Change FBS,Change FBS,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p40,7.37594296934294
+16,Change FBS,Change FBS,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p40,44.0484830467738
+17,Change FBS,Change FBS,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p40,3.01270809932441
+18,Change FBS,Change FBS,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p40,126.06823281372
+19,Change FBS,Change FBS,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p40,4.75550565271968
+20,Change FBS,Change FBS,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p40,35.872842965476
+21,Change FBS,Change FBS,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p40,2.67922155721176
+22,Change FBS,Change FBS,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p40,117.045392606316
+23,Change FBS,Change FBS,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p40,5.99899784517854
+24,Change FBS,Change FBS,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p40,26.1999505726353
+25,Change FBS,Change FBS,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p40,1.79217037418238
+26,Change FBS,Change FBS,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p40,103.880132500666
+27,Change FBS,Change FBS,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p40,1.24937552456154
+28,Change FBS,Change FBS,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p40,14.0787038802546
+29,Change FBS,Change FBS,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p40,3.68314185354856
+30,Change FBS,Change FBS,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p40,74.8670869512691
+31,Change FBS,Change FBS,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p40,1.92638248486046
+32,Change plating,Change plating,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p40,80.1959496736596
+33,Change plating,Change plating,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p40,10.5808193442337
+34,Change plating,Change plating,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p40,139.681332555676
+35,Change plating,Change plating,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p40,41.8342799014838
+36,Change plating,Change plating,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p40,72.7058584983186
+37,Change plating,Change plating,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p40,6.51579086200391
+38,Change plating,Change plating,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p40,142.328516011403
+39,Change plating,Change plating,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p40,19.9646950673016
+40,Change plating,Change plating,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p40,59.7712841223364
+41,Change plating,Change plating,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p40,2.7984889336166
+42,Change plating,Change plating,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p40,138.001733428683
+43,Change plating,Change plating,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p40,9.36651618909229
+44,Change plating,Change plating,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p40,52.8299177370044
+45,Change plating,Change plating,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p40,3.50891616284123
+46,Change plating,Change plating,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p40,131.690715998476
+47,Change plating,Change plating,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p40,4.9376592888543
+48,Change plating,Change plating,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p40,42.6420661399238
+49,Change plating,Change plating,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p40,3.9714335701254
+50,Change plating,Change plating,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p40,126.80698721809
+51,Change plating,Change plating,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p40,3.76333409157009
+52,Change plating,Change plating,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p40,37.0525705729805
+53,Change plating,Change plating,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p40,4.48740732140735
+54,Change plating,Change plating,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p40,117.451917104523
+55,Change plating,Change plating,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p40,5.89794286557106
+56,Change plating,Change plating,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p40,26.8465748086138
+57,Change plating,Change plating,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p40,3.65775651388883
+58,Change plating,Change plating,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p40,103.2115026954
+59,Change plating,Change plating,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p40,3.73392878475624
+60,Change plating,Change plating,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p40,19.9093583102459
+61,Change plating,Change plating,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p40,3.07541222248027
+62,Change plating,Change plating,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p40,76.1485562141249
+63,Change plating,Change plating,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p40,1.56144039716797
+64,duplicate of reference,duplicate of reference,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p40,81.8842200210707
+65,duplicate of reference,duplicate of reference,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p40,8.85930081885473
+66,duplicate of reference,duplicate of reference,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p40,140.862158049431
+67,duplicate of reference,duplicate of reference,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p40,41.6247024762464
+68,duplicate of reference,duplicate of reference,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p40,71.8484183173096
+69,duplicate of reference,duplicate of reference,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p40,2.02799341070754
+70,duplicate of reference,duplicate of reference,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p40,140.421209990461
+71,duplicate of reference,duplicate of reference,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p40,18.8057202701328
+72,duplicate of reference,duplicate of reference,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p40,60.9968545187716
+73,duplicate of reference,duplicate of reference,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p40,2.89974990598448
+74,duplicate of reference,duplicate of reference,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p40,138.261397290099
+75,duplicate of reference,duplicate of reference,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p40,11.0726405426127
+76,duplicate of reference,duplicate of reference,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p40,54.2355103311677
+77,duplicate of reference,duplicate of reference,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p40,0.551090185088998
+78,duplicate of reference,duplicate of reference,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p40,133.153715736715
+79,duplicate of reference,duplicate of reference,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p40,5.56976647539462
+80,duplicate of reference,duplicate of reference,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p40,45.2910375075765
+81,duplicate of reference,duplicate of reference,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p40,2.5570463960633
+82,duplicate of reference,duplicate of reference,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p40,126.530881176933
+83,duplicate of reference,duplicate of reference,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p40,2.66440683222891
+84,duplicate of reference,duplicate of reference,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p40,36.4722848360165
+85,duplicate of reference,duplicate of reference,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p40,4.76232744839212
+86,duplicate of reference,duplicate of reference,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p40,118.45871356387
+87,duplicate of reference,duplicate of reference,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p40,3.18425398907788
+88,duplicate of reference,duplicate of reference,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p40,29.2091008666904
+89,duplicate of reference,duplicate of reference,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p40,2.72550498044712
+90,duplicate of reference,duplicate of reference,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p40,102.495211247119
+91,duplicate of reference,duplicate of reference,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p40,3.25848349165335
+92,duplicate of reference,duplicate of reference,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p40,17.6205736341528
+93,duplicate of reference,duplicate of reference,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p40,0.477692957359062
+94,duplicate of reference,duplicate of reference,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p40,73.4148575545954
+95,duplicate of reference,duplicate of reference,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p40,3.36735885031411
+96,reference,reference,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p40,78.3309331684064
+97,reference,reference,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p40,9.96253646882112
+98,reference,reference,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p40,139.417356633076
+99,reference,reference,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p40,40.7207857537441
+100,reference,reference,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p40,69.9356941932811
+101,reference,reference,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p40,5.56938588397566
+102,reference,reference,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p40,141.434296618161
+103,reference,reference,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p40,20.291614161598
+104,reference,reference,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p40,60.9733423413918
+105,reference,reference,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p40,5.31800316143999
+106,reference,reference,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p40,135.609370992791
+107,reference,reference,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p40,8.58189070772539
+108,reference,reference,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p40,51.4876929116745
+109,reference,reference,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p40,2.09660524826855
+110,reference,reference,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p40,132.996110241793
+111,reference,reference,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p40,5.21415639384275
+112,reference,reference,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p40,42.4939687499349
+113,reference,reference,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p40,2.71861960403261
+114,reference,reference,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p40,126.895393000777
+115,reference,reference,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p40,5.07778445705183
+116,reference,reference,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p40,37.4155434348777
+117,reference,reference,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p40,4.38908789846324
+118,reference,reference,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p40,117.592196788823
+119,reference,reference,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p40,3.67400412482121
+120,reference,reference,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p40,27.5507853577906
+121,reference,reference,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p40,4.32416462121108
+122,reference,reference,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p40,102.836654088188
+123,reference,reference,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p40,2.23568166659583
+124,reference,reference,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p40,19.0923214149479
+125,reference,reference,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p40,2.76880420793753
+126,reference,reference,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p40,73.890631873702
+127,reference,reference,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p40,1.91389855169665
+128,Change FBS,Change FBS,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p70,76.6008420518559
+129,Change FBS,Change FBS,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p70,36.9229019827375
+130,Change FBS,Change FBS,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p70,0.0452236909301091
+131,Change FBS,Change FBS,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p70,0.689353691329588
+132,Change FBS,Change FBS,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p70,77.5112484169613
+133,Change FBS,Change FBS,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p70,19.9432139860631
+134,Change FBS,Change FBS,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p70,1.19332526078915
+135,Change FBS,Change FBS,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p70,-0.0646542327502404
+136,Change FBS,Change FBS,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p70,78.1449353374036
+137,Change FBS,Change FBS,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p70,9.52428266999609
+138,Change FBS,Change FBS,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p70,2.4508655128462
+139,Change FBS,Change FBS,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p70,0.767727150621516
+140,Change FBS,Change FBS,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p70,77.9560072284109
+141,Change FBS,Change FBS,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p70,4.95037860413707
+142,Change FBS,Change FBS,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p70,1.69122914833401
+143,Change FBS,Change FBS,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p70,1.32906857738704
+144,Change FBS,Change FBS,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p70,79.0973824203153
+145,Change FBS,Change FBS,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p70,1.75393973551562
+146,Change FBS,Change FBS,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p70,-0.307652783589835
+147,Change FBS,Change FBS,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p70,-0.164075247893887
+148,Change FBS,Change FBS,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p70,78.1632529151839
+149,Change FBS,Change FBS,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p70,1.72816640042171
+150,Change FBS,Change FBS,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p70,0.429449069185908
+151,Change FBS,Change FBS,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p70,-0.579842271576739
+152,Change FBS,Change FBS,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p70,71.0573120853427
+153,Change FBS,Change FBS,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p70,-0.22879612651839
+154,Change FBS,Change FBS,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p70,1.26493689963883
+155,Change FBS,Change FBS,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p70,0.560785735174915
+156,Change FBS,Change FBS,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p70,55.1972434271256
+157,Change FBS,Change FBS,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p70,1.15166286963765
+158,Change FBS,Change FBS,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p70,0.386401756858989
+159,Change FBS,Change FBS,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p70,-0.343061238584431
+160,Change plating,Change plating,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p70,75.883505699159
+161,Change plating,Change plating,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p70,38.1179764906196
+162,Change plating,Change plating,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p70,0.733976481111839
+163,Change plating,Change plating,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p70,-0.98638747979513
+164,Change plating,Change plating,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p70,77.7230983721194
+165,Change plating,Change plating,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p70,21.9011573878625
+166,Change plating,Change plating,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p70,1.92972547186595
+167,Change plating,Change plating,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p70,1.57139562888872
+168,Change plating,Change plating,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p70,77.8880778883081
+169,Change plating,Change plating,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p70,11.5377631548267
+170,Change plating,Change plating,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p70,1.23364648439552
+171,Change plating,Change plating,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p70,-0.327085841114727
+172,Change plating,Change plating,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p70,78.3865652874511
+173,Change plating,Change plating,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p70,4.11757615668163
+174,Change plating,Change plating,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p70,0.545336400730041
+175,Change plating,Change plating,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p70,1.22583851995021
+176,Change plating,Change plating,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p70,77.2402005249472
+177,Change plating,Change plating,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p70,2.2550256466412
+178,Change plating,Change plating,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p70,1.61651323358911
+179,Change plating,Change plating,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p70,0.75305346390287
+180,Change plating,Change plating,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p70,78.0254872908484
+181,Change plating,Change plating,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p70,0.966304610523181
+182,Change plating,Change plating,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p70,0.196838138429098
+183,Change plating,Change plating,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p70,0.565002627360989
+184,Change plating,Change plating,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p70,72.9631113573005
+185,Change plating,Change plating,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p70,0.851462623939861
+186,Change plating,Change plating,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p70,0.769723132989073
+187,Change plating,Change plating,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p70,0.415546349984214
+188,Change plating,Change plating,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p70,58.5507119924118
+189,Change plating,Change plating,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p70,0.955556852935942
+190,Change plating,Change plating,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p70,1.2382996243135
+191,Change plating,Change plating,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p70,1.8900792911741
+192,duplicate of reference,duplicate of reference,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p70,77.9801700344894
+193,duplicate of reference,duplicate of reference,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p70,37.3085203771991
+194,duplicate of reference,duplicate of reference,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p70,0.248984225999896
+195,duplicate of reference,duplicate of reference,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p70,0.44866811072585
+196,duplicate of reference,duplicate of reference,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p70,78.2864139865642
+197,duplicate of reference,duplicate of reference,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p70,19.9564419888434
+198,duplicate of reference,duplicate of reference,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p70,1.41336880995258
+199,duplicate of reference,duplicate of reference,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p70,0.39724329254665
+200,duplicate of reference,duplicate of reference,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p70,78.8584486522904
+201,duplicate of reference,duplicate of reference,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p70,10.4015058041971
+202,duplicate of reference,duplicate of reference,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p70,-0.131122807687743
+203,duplicate of reference,duplicate of reference,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p70,1.57779265585079
+204,duplicate of reference,duplicate of reference,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p70,78.1909305399045
+205,duplicate of reference,duplicate of reference,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p70,4.77076141491367
+206,duplicate of reference,duplicate of reference,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p70,1.34775938342296
+207,duplicate of reference,duplicate of reference,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p70,-0.0938997688226821
+208,duplicate of reference,duplicate of reference,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p70,78.8410129470394
+209,duplicate of reference,duplicate of reference,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p70,1.86907261294508
+210,duplicate of reference,duplicate of reference,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p70,0.250950232285355
+211,duplicate of reference,duplicate of reference,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p70,-1.18332134535766
+212,duplicate of reference,duplicate of reference,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p70,77.6057543149312
+213,duplicate of reference,duplicate of reference,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p70,1.05175494176152
+214,duplicate of reference,duplicate of reference,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p70,0.651184954686941
+215,duplicate of reference,duplicate of reference,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p70,1.02317846822121
+216,duplicate of reference,duplicate of reference,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p70,72.1873588137081
+217,duplicate of reference,duplicate of reference,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p70,0.425097174701978
+218,duplicate of reference,duplicate of reference,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p70,0.131425166894953
+219,duplicate of reference,duplicate of reference,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p70,1.30329342609838
+220,duplicate of reference,duplicate of reference,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p70,56.3212180452945
+221,duplicate of reference,duplicate of reference,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p70,0.503763302545939
+222,duplicate of reference,duplicate of reference,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p70,0.791900132752617
+223,duplicate of reference,duplicate of reference,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p70,0.170506575507151
+224,reference,reference,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-12 p70,75.9106276144313
+225,reference,reference,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-12 p70,36.9250203585531
+226,reference,reference,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-12 p70,0.922984915805843
+227,reference,reference,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-12 p70,-0.701803226958509
+228,reference,reference,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-12 p70,79.1350036474928
+229,reference,reference,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-12 p70,20.4580777179117
+230,reference,reference,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-12 p70,1.65841681334225
+231,reference,reference,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-12 p70,0.769314887729627
+232,reference,reference,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-12 p70,78.511347322504
+233,reference,reference,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-12 p70,10.2821041330501
+234,reference,reference,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-12 p70,1.95825924909261
+235,reference,reference,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-12 p70,0.980902036737549
+236,reference,reference,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-12 p70,78.823578502888
+237,reference,reference,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-12 p70,4.12432822695536
+238,reference,reference,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-12 p70,0.376842457267547
+239,reference,reference,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-12 p70,1.83741369412023
+240,reference,reference,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-12 p70,79.0559878541371
+241,reference,reference,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-12 p70,1.93520753667768
+242,reference,reference,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-12 p70,0.690565376623662
+243,reference,reference,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-12 p70,-0.458210041095112
+244,reference,reference,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-12 p70,77.5934978192211
+245,reference,reference,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-12 p70,1.3933835352283
+246,reference,reference,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-12 p70,0.573380346189008
+247,reference,reference,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-12 p70,-0.442115861645498
+248,reference,reference,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-12 p70,72.4804427883485
+249,reference,reference,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-12 p70,2.36387858384367
+250,reference,reference,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-12 p70,0.50131181932631
+251,reference,reference,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-12 p70,0.582784470313765
+252,reference,reference,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-12 p70,57.3156325136325
+253,reference,reference,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-12 p70,2.2118097532279
+254,reference,reference,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-12 p70,1.28766053925803
+255,reference,reference,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-12 p70,-0.367458755453372
+256,Change FBS,Change FBS,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-23,-4.31868662492546
+257,Change FBS,Change FBS,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-23,-0.412226526825005
+258,Change FBS,Change FBS,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-23,45.7367321939222
+259,Change FBS,Change FBS,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-23,2.87729374895941
+260,Change FBS,Change FBS,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-23,-1.34128641324632
+261,Change FBS,Change FBS,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-23,-0.604878377124283
+262,Change FBS,Change FBS,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-23,46.5509464405105
+263,Change FBS,Change FBS,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-23,0.868876462375431
+264,Change FBS,Change FBS,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-23,-1.13665248393833
+265,Change FBS,Change FBS,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-23,0.251806400739153
+266,Change FBS,Change FBS,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-23,46.4178671480091
+267,Change FBS,Change FBS,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-23,0.941765799495124
+268,Change FBS,Change FBS,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-23,-0.609977094026995
+269,Change FBS,Change FBS,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-23,-1.62067092244884
+270,Change FBS,Change FBS,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-23,40.9816337927382
+271,Change FBS,Change FBS,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-23,-0.560569475316622
+272,Change FBS,Change FBS,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-23,-0.0505801030677532
+273,Change FBS,Change FBS,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-23,0.0802311222406812
+274,Change FBS,Change FBS,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-23,31.7396675540005
+275,Change FBS,Change FBS,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-23,-0.700041671908957
+276,Change FBS,Change FBS,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-23,0.0958497583312273
+277,Change FBS,Change FBS,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-23,-0.0148164644611916
+278,Change FBS,Change FBS,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-23,21.8552671880416
+279,Change FBS,Change FBS,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-23,-0.106189374656047
+280,Change FBS,Change FBS,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-23,-1.36707513949163
+281,Change FBS,Change FBS,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-23,-0.235998647183452
+282,Change FBS,Change FBS,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-23,12.6951752518207
+283,Change FBS,Change FBS,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-23,-0.196203638028048
+284,Change FBS,Change FBS,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-23,-1.92696429528528
+285,Change FBS,Change FBS,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-23,-0.559209805629078
+286,Change FBS,Change FBS,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-23,6.64774432465378
+287,Change FBS,Change FBS,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-23,1.09035454480669
+288,Change plating,Change plating,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-23,-2.76036921300983
+289,Change plating,Change plating,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-23,0.825984573152208
+290,Change plating,Change plating,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-23,45.6764843279049
+291,Change plating,Change plating,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-23,3.79962824816051
+292,Change plating,Change plating,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-23,-2.09565189931861
+293,Change plating,Change plating,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-23,-2.16651386050211
+294,Change plating,Change plating,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-23,46.1542050526619
+295,Change plating,Change plating,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-23,0.927980504556426
+296,Change plating,Change plating,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-23,-2.15778761103323
+297,Change plating,Change plating,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-23,-0.491666269341056
+298,Change plating,Change plating,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-23,45.8230868789631
+299,Change plating,Change plating,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-23,0.501475580704142
+300,Change plating,Change plating,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-23,-0.22482968322478
+301,Change plating,Change plating,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-23,0.0407699423206132
+302,Change plating,Change plating,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-23,41.5211600966377
+303,Change plating,Change plating,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-23,-0.326441897226127
+304,Change plating,Change plating,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-23,0.72338997269287
+305,Change plating,Change plating,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-23,0.258193803774463
+306,Change plating,Change plating,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-23,33.1090977804695
+307,Change plating,Change plating,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-23,0.126925626061446
+308,Change plating,Change plating,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-23,1.19549542796331
+309,Change plating,Change plating,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-23,0.302492681604706
+310,Change plating,Change plating,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-23,24.0451731181278
+311,Change plating,Change plating,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-23,-0.0771937657422698
+312,Change plating,Change plating,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-23,-0.959142220600824
+313,Change plating,Change plating,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-23,-0.053307029966795
+314,Change plating,Change plating,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-23,13.7286362605419
+315,Change plating,Change plating,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-23,0.0348550741260806
+316,Change plating,Change plating,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-23,0.186190471321506
+317,Change plating,Change plating,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-23,0.357513790973335
+318,Change plating,Change plating,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-23,8.327664132234
+319,Change plating,Change plating,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-23,0.750159949568036
+320,duplicate of reference,duplicate of reference,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-23,-2.91168317059601
+321,duplicate of reference,duplicate of reference,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-23,0.741470957044296
+322,duplicate of reference,duplicate of reference,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-23,45.5052688887197
+323,duplicate of reference,duplicate of reference,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-23,3.77908625370402
+324,duplicate of reference,duplicate of reference,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-23,-2.12451092945534
+325,duplicate of reference,duplicate of reference,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-23,-0.664489750182339
+326,duplicate of reference,duplicate of reference,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-23,45.6556750951347
+327,duplicate of reference,duplicate of reference,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-23,2.06259506853773
+328,duplicate of reference,duplicate of reference,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-23,0.697033161357437
+329,duplicate of reference,duplicate of reference,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-23,1.14742952064864
+330,duplicate of reference,duplicate of reference,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-23,45.249629317085
+331,duplicate of reference,duplicate of reference,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-23,0.856700930237645
+332,duplicate of reference,duplicate of reference,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-23,0.800282636801995
+333,duplicate of reference,duplicate of reference,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-23,-0.0132278848281363
+334,duplicate of reference,duplicate of reference,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-23,41.0044386858715
+335,duplicate of reference,duplicate of reference,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-23,0.507932420982285
+336,duplicate of reference,duplicate of reference,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-23,0.085297241477603
+337,duplicate of reference,duplicate of reference,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-23,0.756853931936009
+338,duplicate of reference,duplicate of reference,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-23,33.0556563641344
+339,duplicate of reference,duplicate of reference,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-23,1.05451287329856
+340,duplicate of reference,duplicate of reference,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-23,0.63689163503015
+341,duplicate of reference,duplicate of reference,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-23,0.241659416702766
+342,duplicate of reference,duplicate of reference,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-23,23.5565959135494
+343,duplicate of reference,duplicate of reference,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-23,1.19385272805434
+344,duplicate of reference,duplicate of reference,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-23,-0.213381556467128
+345,duplicate of reference,duplicate of reference,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-23,0.408365806144875
+346,duplicate of reference,duplicate of reference,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-23,14.4317988973433
+347,duplicate of reference,duplicate of reference,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-23,0.0136079578483212
+348,duplicate of reference,duplicate of reference,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-23,0.806059500682091
+349,duplicate of reference,duplicate of reference,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-23,1.5328813892533
+350,duplicate of reference,duplicate of reference,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-23,6.88126913280387
+351,duplicate of reference,duplicate of reference,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-23,0.405314471845071
+352,reference,reference,A03,AgPool2,2.0,225000.0,ng/mL,IL-12 p70,IL-23,-2.31321103692413
+353,reference,reference,A04,AgPool2,2.0,147.45600000000002,ng/mL,IL-12 p70,IL-23,0.15922237124912
+354,reference,reference,A05,AgPool3,3.0,225000.0,ng/mL,IL-23,IL-23,44.4346302534528
+355,reference,reference,A06,AgPool3,3.0,147.45600000000002,ng/mL,IL-23,IL-23,2.39485244946074
+356,reference,reference,B03,AgPool2,2.0,90000.0,ng/mL,IL-12 p70,IL-23,-2.21899606644617
+357,reference,reference,B04,AgPool2,2.0,58.9824,ng/mL,IL-12 p70,IL-23,-1.63022867966774
+358,reference,reference,B05,AgPool3,3.0,90000.0,ng/mL,IL-23,IL-23,46.1727743394043
+359,reference,reference,B06,AgPool3,3.0,58.9824,ng/mL,IL-23,IL-23,0.659569422441374
+360,reference,reference,C03,AgPool2,2.0,36000.0,ng/mL,IL-12 p70,IL-23,-1.13377549124728
+361,reference,reference,C04,AgPool2,2.0,23.592959999999998,ng/mL,IL-12 p70,IL-23,-1.19243923011708
+362,reference,reference,C05,AgPool3,3.0,36000.0,ng/mL,IL-23,IL-23,44.3024814166277
+363,reference,reference,C06,AgPool3,3.0,23.592959999999998,ng/mL,IL-23,IL-23,-0.178320531169405
+364,reference,reference,D03,AgPool2,2.0,14400.0,ng/mL,IL-12 p70,IL-23,-1.32233086818132
+365,reference,reference,D04,AgPool2,2.0,9.437184,ng/mL,IL-12 p70,IL-23,-0.668115851766825
+366,reference,reference,D05,AgPool3,3.0,14400.0,ng/mL,IL-23,IL-23,41.1566503323863
+367,reference,reference,D06,AgPool3,3.0,9.437184,ng/mL,IL-23,IL-23,0.0277658552059964
+368,reference,reference,E03,AgPool2,2.0,5760.0,ng/mL,IL-12 p70,IL-23,0.12998734410758
+369,reference,reference,E04,AgPool2,2.0,3.774874,ng/mL,IL-12 p70,IL-23,0.100346915543602
+370,reference,reference,E05,AgPool3,3.0,5760.0,ng/mL,IL-23,IL-23,33.1061734483225
+371,reference,reference,E06,AgPool3,3.0,3.774874,ng/mL,IL-23,IL-23,-0.125051374638542
+372,reference,reference,F03,AgPool2,2.0,2304.0,ng/mL,IL-12 p70,IL-23,0.859442842062708
+373,reference,reference,F04,AgPool2,2.0,1.509949,ng/mL,IL-12 p70,IL-23,-0.191275656815994
+374,reference,reference,F05,AgPool3,3.0,2304.0,ng/mL,IL-23,IL-23,22.5963675733811
+375,reference,reference,F06,AgPool3,3.0,1.509949,ng/mL,IL-23,IL-23,0.233752834077131
+376,reference,reference,G03,AgPool2,2.0,921.6,ng/mL,IL-12 p70,IL-23,-0.24172167517423
+377,reference,reference,G04,AgPool2,2.0,0.60398,ng/mL,IL-12 p70,IL-23,-1.1306222351043
+378,reference,reference,G05,AgPool3,3.0,921.6,ng/mL,IL-23,IL-23,13.1346176305207
+379,reference,reference,G06,AgPool3,3.0,0.60398,ng/mL,IL-23,IL-23,0.604235199632931
+380,reference,reference,H03,AgPool2,2.0,368.64000000000004,ng/mL,IL-12 p70,IL-23,-0.184921299961937
+381,reference,reference,H04,AgPool2,2.0,0.241592,ng/mL,IL-12 p70,IL-23,-1.09721184949971
+382,reference,reference,H05,AgPool3,3.0,368.64000000000004,ng/mL,IL-23,IL-23,6.43369557827589
+383,reference,reference,H06,AgPool3,3.0,0.241592,ng/mL,IL-23,IL-23,0.218493993794958
